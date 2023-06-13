@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **React Native**
 
-- 📝 I regularly write posts on [LinkedIn](https://www.linkedin.com/in/paolo-gambardella/)
+- 📝 I regularly write posts on [Twitter](https://twitter.com/IamPaoloDev)
 
 - 📫 How to reach me **paolo.gambardella.pro@gmail.com**
 
