@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paolo</h1>
 <h3 align="center">A French React Native developer</h3>
 
-- 🔭 I’m currently working on **NOX a new social network**
-
 - 🌱 I’m currently working with **React Native**
 
 - 📝 I regularly write posts on [Twitter](https://twitter.com/IamPaoloDev)
