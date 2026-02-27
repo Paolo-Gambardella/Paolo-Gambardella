@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **paolo.gambardella.pro@gmail.com**
 
-- ⚡ Fun fact **I lived in France, South Korea, Russia and USA**
+- ⚡ Fun fact **I lived in France, South Korea, Russia, USA, North Macedonia and Estonia**
 
 </br>
 
